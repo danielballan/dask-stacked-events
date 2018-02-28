@@ -1,0 +1,6 @@
+dask
+bluesky
+databroker
+ophyd
+h5py
+numpy
